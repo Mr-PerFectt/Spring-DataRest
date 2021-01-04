@@ -1,0 +1,13 @@
+package com.mrperfect.ecom;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FoodEcomApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FoodEcomApplication.class, args);
+	}
+
+}
